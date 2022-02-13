@@ -5,7 +5,7 @@
 
 # Appearance
 
-theme: own
+theme: forest
 day_night: true
 font: ''
 font_size: L
@@ -77,7 +77,9 @@ address_format: en-us
 highlight: true
 highlight_languages:
   - r
-math: false
+  - python
+  - c
+math: true
 diagram: false
 privacy_pack: false
 edit_page:
