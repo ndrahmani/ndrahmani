@@ -1,21 +1,15 @@
 ---
-# An instance of the About widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
 widget: about
-
-# Activate this widget? true/false
-active: true
-
-# This file represents a page section.
+widget_id: ndr-about
 headless: true
-
-# Order that this section appears on the page.
 weight: 20
-
 title: Biography
-
-# Choose the user profile to display
-# This should be the username (folder name) of a profile in your `content/authors/` folder.
-# See https://wowchemy.com/docs/get-started/#introduce-yourself
+active: true
 author: admin
 ---
+<!--StartFragment-->
+
+I am **Nour-eddine RAHMANI**, a Ph.d student of Mathematics. Currently, My thesis is about Lattice-based cryptography.\
+I am researching under  [ACSA Laboratory](http://lacsa.alghammad.com/) in [Faculty of Science](http://fso.ump.ma/), [Mohammed First University](http://www.ump.ma/). I am interested also in programming, animating mathematics, and some of my hobbies are gaming, anime, manga, and poetry.
+
+<!--EndFragment-->
