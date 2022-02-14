@@ -3,12 +3,12 @@ name = "own"
 
 [light]
   # Primary
-  primary = "#46a34a"
+  primary = "#4ca250"
 
   # Menu
   menu_primary = "#329436"
   menu_text = "#fff"
-  menu_text_active = "#1b5e20"
+  menu_text_active = "#1b9f49"
   menu_title = "#fff"
 
   # Home sections
@@ -19,5 +19,5 @@ name = "own"
   #  Primary
   primary = "#bbfbc2"
 
-  link = "#bbfbd7"
+  link = "#6bff7b"
   link_hover = "#bcfbbb"
