@@ -8,6 +8,13 @@ en:
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   #contentDir: content/en
 
+ar:
+  languageCode: ar-ma
+  languagedirection: rtl
+  contentDir: content/en
+  title: نورالدين الرحماني
+  
+  
 # Uncomment the lines below to configure your website in a second language.
 #zh:
 #  languageCode: zh-Hans
