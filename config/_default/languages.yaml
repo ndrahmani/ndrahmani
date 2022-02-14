@@ -11,7 +11,7 @@ en:
 ar:
   languageCode: ar-ma
   languagedirection: rtl
-  contentDir: content/en
+  #contentDir: content/ar
   title: نورالدين الرحماني
   
   
