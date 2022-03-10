@@ -6,6 +6,7 @@
 # Appearance
 theme: forest
 day_night: true
+theme_day: my_theme
 font: ''
 font_size: L
 
