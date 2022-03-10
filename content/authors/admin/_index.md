@@ -38,6 +38,6 @@ email: ndrmtn2020@gmail.com
 superuser: true
 highlight_name: true
 ---
-I am **Nour-eddine RAHMANI**, a Ph.d student of Mathematics. Currently, my thesis is about Lattice-based cryptography. I am researching under  [ACSA Laboratory](http://lacsa.alghammad.com/) in [Faculty of Science](http://fso.ump.ma/), [Mohammed First University](http://www.ump.ma/). I am interested also in programming, animating mathematics, and some of my hobbies are gaming, anime, manga, and poetry.
+I am **Nour-eddine RAHMANI**, a Ph.D. student of Mathematics. Currently, my thesis is about Lattice-based cryptography. I am researching under  [ACSA Laboratory](http://lacsa.alghammad.com/) in [Faculty of Science](http://fso.ump.ma/), [Mohammed First University](http://www.ump.ma/). I am interested also in programming, animating mathematics, and some of my hobbies are gaming, anime, manga, and poetry.
 
  Download my [resumé](https://ndrahmani.netlify.app/#).
