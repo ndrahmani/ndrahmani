@@ -28,7 +28,6 @@ organizations:
   - name: Mohammed First University
     url: https://www.ump.ma/
   - name: Algebra, Computational Science and Arithmetic Laboratory (ACSA)
-    url: ""
 education:
   courses:
     - course: Master degree in Algebraic Number Theory and  Cryptography
