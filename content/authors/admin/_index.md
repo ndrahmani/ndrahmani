@@ -7,7 +7,7 @@ interests:
   - Algebra
   - Public-key Cryptography
   - Computational Complexity
-  - Cybersecurity
+  - Information Security
 social:
   - icon: envelope
     icon_pack: fas
