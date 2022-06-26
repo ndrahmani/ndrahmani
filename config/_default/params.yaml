@@ -7,6 +7,7 @@
 theme: forest
 day_night: true
 theme_day: my_theme
+theme_night: forest
 font: ''
 font_size: L
 
@@ -29,9 +30,9 @@ address:
   postcode: '60000'
   country: Morocco
   country_code: MA
-office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
+#office_hours:
+#  - 'Monday 10:00 to 13:00'
+#  - 'Wednesday 09:00 to 10:00'
 appointment_url: '#'
 contact_links:
   - icon: twitter
